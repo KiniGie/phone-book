@@ -1,0 +1,5 @@
+.contact {
+    display: flex;
+    gap:30px;
+    border: 1px solid salmon;
+}
